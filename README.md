@@ -1,2 +1,1 @@
-# dsafdf
-subdomain takeover
+<html><body>Hello World by mhzsec</body></html>
